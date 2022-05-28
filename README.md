@@ -1,2 +1,0 @@
-# amber-costley
-Begin app
